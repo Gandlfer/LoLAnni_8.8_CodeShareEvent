@@ -1,6 +1,7 @@
 # How to download
 * 1. If you are experienced with Git, you can use git commands to clone the repository.
-* 2. Go to 
+* 2. Go to https://github.com/Gandlfer/LoLAnni_8.8_CodeShareEvent > Code > One of the Options
+
 # Setup
 * Install Python 3 from https://www.python.org/downloads/ or the Windows Store 
 * I am using Visual Studio Code https://code.visualstudio.com/ as my IDE (You may select any IDE of your choice), remember to run it as Administrator
