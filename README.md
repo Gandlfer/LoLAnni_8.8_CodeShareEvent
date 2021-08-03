@@ -12,6 +12,10 @@
 * To add in codes, go to "CodeInput", and add the code at the end of the line. It is required to HAVE a SPACE between each code!
 * To end the script, just ctrl+alt+del
 
+# Important
+* Make sure your League Client is 1280x720
+* Make sure there is nothing in your "enter code box"
+
 # Note from Me
 * It is a shitty script with no GUI just for my own personal use. 
 * It will only be used for this LOL 8.8 Anniversary Event.
