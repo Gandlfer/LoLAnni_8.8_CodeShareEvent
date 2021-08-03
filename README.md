@@ -2,7 +2,14 @@
 * 1. If you are experienced with Git, you can use git commands to clone the repository.
 * 2. Go to https://github.com/Gandlfer/LoLAnni_8.8_CodeShareEvent > Code > One of the Options
 
-# Setup
+# Initial Setup
+* There are 3 images that is needed to be used in the script. Use Snipping Tool (Should be the installed in Windows by default) and save it to captures folder
+* 1. The word "Enter Code" where you enter the invitation code. Name it as "InputBox" and format as PNG
+* 2. The word "Enter" in the Enter Button. Name it as "Button" and format as PNG
+* 3. The word "Confirm" in the Confirm button after you enter a code and press enter. Name it as "Confirm" and format as PNG
+* Examples can be refered in the original captures folder. It should be replaced by your own captures. This is because different PC has different pixels so its hard to get a precise image search to compare to
+
+# How to run
 * Install Python 3 from https://www.python.org/downloads/ or the Windows Store 
 * I am using Visual Studio Code https://code.visualstudio.com/ as my IDE (You may select any IDE of your choice), remember to run it as Administrator
 * In IDE Terminal, run 'pip install -r install.txt' to install required libraries
