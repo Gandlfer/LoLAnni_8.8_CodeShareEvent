@@ -12,7 +12,7 @@
 # How to run
 * Install Python 3 from https://www.python.org/downloads/ or the Windows Store. (When installing python, remember to tick "Add Python to PATH")
 * I am using Visual Studio Code https://code.visualstudio.com/ as my IDE (You may select any IDE of your choice), remember to run it as Administrator
-* In IDE Terminal, run 'pip install -r install.txt' to install required libraries
+* In IDE Terminal, run 'pip install -r install.txt' to install required libraries, and run pip install Pillow --upgrade
 
 # How to use
 * Run "CodeSpam.py" (Make sure the box to enter code is empty) and do not touch your mouse as it is controlling your mouse to paste codes and button clicking
