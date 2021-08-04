@@ -10,7 +10,7 @@
 * Examples can be refered in the original captures folder. It should be replaced by your own captures. This is because different PC has different pixels so its hard to get a precise image search to compare to
 
 # How to run
-* Install Python 3 from https://www.python.org/downloads/ or the Windows Store 
+* Install Python 3 from https://www.python.org/downloads/ or the Windows Store. (When installing python, remember to tick "Add Python to PATH")
 * I am using Visual Studio Code https://code.visualstudio.com/ as my IDE (You may select any IDE of your choice), remember to run it as Administrator
 * In IDE Terminal, run 'pip install -r install.txt' to install required libraries
 
@@ -31,3 +31,10 @@
 # Credits
 * Script made by: AsianCawFee#8672
 * Code data provided by: Bucket#9403
+
+# FAQ
+* 1. pip install did not work doesnt work
+*   Go search for %appdata%/Local/Programs/Python/Python3.9 and right click copy this address as text, and the other address %appdata%/Local/Programs/Python/Python3.9/Scripts
+*   Next, Search under your windows search for Edit System Environment Variables> Environment Variables
+*   Double click on the word PATH under User Variables, for each address, create new and paste it in.
+*   Do the same for Path under System Variables. Then Restart your computer.
